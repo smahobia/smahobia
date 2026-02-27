@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @smahobia
-- 👀 I’m interested in latest in tech
-- 🌱 I’m currently learning application migration, cloud tech
-- 💞️ I’m looking to collaborate on distributed systems
+- 👀 I’m interested in latest in tech .net, sql, AI, Copilot, Claude
+- 🌱 I’m currently learning github copilot, app migration, cloud tech
+- 💞️ I’m looking to collaborate on distributed systems, multi agent , subagent setup
 - 📫 How to reach me 
 
 <!---
